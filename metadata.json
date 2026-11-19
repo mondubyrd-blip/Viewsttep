@@ -1,0 +1,6 @@
+{
+  "name": "Gambrel construction Viewer",
+  "description": "Interactive 3D step-by-step construction viewer for a 16x20 gambrel barn shed, including foundation, framing, and interior layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
